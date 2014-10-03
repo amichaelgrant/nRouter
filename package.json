@@ -1,0 +1,24 @@
+{
+  "name": "nRouter",
+  "version": "0.0.0",
+  "description": "JSON based message routing for mobile and web application development. Simple scaleable nodejs based messaging framework. Extensible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "json",
+    "messaging",
+    "scaleable",
+    "extensible",
+    "mobile",
+    "web",
+    "nodejs"
+  ],
+  "author": "a.michael.grant@gmail.com",
+  "license": "BSD",
+  "dependencies": {
+    "redis": "~0.12.1"
+  }
+}
